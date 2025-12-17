@@ -1,0 +1,2 @@
+
+<!DOCTYPE html> <html lang="zh-TW"> <head> <meta charset="UTF-8"> <title>我的 CodePen 專案</title> <link rel="stylesheet" href="style.css"> </head> <body> <h1>我的 CodePen 專案</h1> <p>這裡是從 CodePen 搬到 GitHub 的展示。</p> <!-- 影片嵌入範例 --> <iframe width="560" height="315" src="https://www.youtube.com/embed/nHji9NhZgd8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe> <button id="alertBtn">點我試試</button> <script src="script.js"></script> </body>
